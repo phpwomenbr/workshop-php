@@ -25,8 +25,10 @@ Todo arquivo PHP deve começar com a seguinte abertura de tag :
 Desta forma, o interpretador do PHP identifica que estamos começando um arquivo PHP.
 Em seguida, digite o seguinte código:
 
-    <?php
+```php    
+<?php
     echo 'Olá, mundo!';
+```
 
 Depois disso, salve seu arquivo com a extensão `.php`
 Exemplo: `ola_mundo.php`
