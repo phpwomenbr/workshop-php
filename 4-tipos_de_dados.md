@@ -15,6 +15,7 @@ O PHP suporta oito tipos de dados primitivos divididos em três grupos:
 3.  Dois tipos especiais:
     - resource
     - NULL
+## Exemplo de dados escalares:
  ```php
 <?php
 $inteiro = 23; // inteiro
