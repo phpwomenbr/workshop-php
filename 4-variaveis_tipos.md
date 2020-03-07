@@ -1,21 +1,20 @@
 # Tipos de dados 
 
-O PHP suporta oito tipos de dados primitivos divididos em três grupos:
+Em PHP temos oito tipos de dados primitivos:
+- integer (números inteiros)
+- float (número de ponto flutuante, ou também double)
+- string (texto que escrevemos entre aspas)
+- boolean (verdadeiro ou salso)
 
-1.  Quatro tipos básicos, os dados escalares
-    - integer (números inteiros)
-    - float (número de ponto flutuante, ou também double)
-    - string (texto que escrevemos entre aspas)
-    - boolean (verdadeiro ou salso)
-2.  Dois tipos compostos
-    - array
-    - object
-    - callable
-    - interable
-3.  Dois tipos especiais:
-    - resource
-    - NULL
-## Exemplo de dados escalares:
+- array
+- object
+- callable
+- interable
+
+- resource
+- NULL
+    
+## Exemplo de variáveis:
  ```php
 <?php
 $inteiro = 23; // inteiro
