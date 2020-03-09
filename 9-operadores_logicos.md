@@ -11,7 +11,7 @@ A seguir a tabela de operadores lógicos:
 | `$a xor $b`      |   XOR      |  Verdadeiro se $a ou $b são verdadeiros, mas não ambos.       |
 | `! $a`     | NÃO                      | Verdadeiro se $a não é verdadeiro.   |
 | `$a && $b`      | E|   Verdadeiro se tanto $a quanto $b são verdadeiros.  |
-| `$a || $b`     | OU|  Verdadeiro se $a ou $b são verdadeiros. |
+| <code>$a &#124;&#124; $b</code>    | OU|  Verdadeiro se $a ou $b são verdadeiros. |
 
 Exemplo
 
