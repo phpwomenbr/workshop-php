@@ -49,6 +49,3 @@ float(4.5)
 string(12) "Olá, mundo!"
 bool(true)
 ```
-
-
-
