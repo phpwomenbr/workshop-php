@@ -41,5 +41,4 @@ Desta forma o terminal irá executar seu arquivo PHP.
 
 Muito fácil, não é mesmo?!
 
-
-
+[Voltar a página inicial](../README.md)

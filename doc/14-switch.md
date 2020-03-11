@@ -21,3 +21,5 @@ switch ($idioma) {
         break;
 }
 ```
+
+[Voltar a página inicial](../README.md)

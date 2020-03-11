@@ -24,3 +24,5 @@ var_dump( 2 >= '2'); // 2 >= 100 -> true
 var_dump( 'Olá, mundo' == 'Olá, Mundo'); // Olá, mundo == Olá, Mundo -> false
 var_dump( 'Olá, mundo' == 'Olá, mundo'); // Olá, mundo == Olá, mundo -> true
 ```
+
+[Voltar a página inicial](../README.md)

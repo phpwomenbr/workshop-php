@@ -35,4 +35,6 @@ $pi = 3.1415; //float
 $meu_Nome = "Daiane"; //string
 $array = [1,2,3]; //array 
 
-> Nota: Para checar o tipo e valor de uma expressão, utilize a função var_dump(). 
+> Nota: Para checar o tipo e valor de uma expressão, utilize a função var_dump().
+
+[Voltar a página inicial](../README.md)

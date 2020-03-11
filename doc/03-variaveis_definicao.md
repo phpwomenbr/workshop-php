@@ -17,3 +17,5 @@ No exemplo acima estamos definindo uma variável chamada $meu_nome e ela está r
 4.  Devem ser declaradas em minúsculo. Caso sejam nomes compostos, a primeira letra de todas as palavras, menos da primeira, deve ser maiúscula (ex: dataAniversario) ou separe-as pelo caractere underline (ex.: data_Aniversario);
 
 > Como PHP é uma linguagem case sensitive, `$nomeum` é diferente de `$nomeUm`.
+
+[Voltar a página inicial](../README.md)

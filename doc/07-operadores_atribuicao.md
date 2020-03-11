@@ -19,3 +19,5 @@ Além do operador básico de atribuição, há "operadores combinados" para todo
 $a = 3;
 $a += 5; // define $a para 8, como se disséssemos: $a = $a + 5;
 ```
+
+[Voltar a página inicial](../README.md)

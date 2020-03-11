@@ -53,3 +53,5 @@ echo $expressao;
 ```
 
 Será exibido na tela o resultado 9.5
+
+[Voltar a página inicial](../README.md)

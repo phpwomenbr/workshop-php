@@ -6,14 +6,19 @@ ctrl + alt + t
 
 Com o terminal aberto digite:
 
-    sudo apt install php
+```bash
+sudo apt install php
+```
 ###### Obs.: em um sistema baseado em Debian usa-se apt para instalar pacotes.  
-
 
 Desta forma o PHP será instalado no seu computador.
 
 Para conferir a versão instalada digite:
 
-    php -v
+```
+php -v
+```
   
-  Pronto! O PHP está pronto para ser utilizado.
+Pronto! O PHP está pronto para ser utilizado.
+
+[Voltar a página inicial](../README.md)
