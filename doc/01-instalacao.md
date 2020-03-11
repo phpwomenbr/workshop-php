@@ -28,12 +28,15 @@ O projeto MacPorts é uma iniciativa da comunidade de código aberto para projet
 
 Você pode instalar o php em diferentes versões : php5.4, php5.5, php5.6, php7.0, php7.1, php7.2 ou php7.3 usando o comando port install, como no exemplo abaixo:
 
+```bash
     sudo port install php56
     sudo port install php73
+```
 
 Você pode utilizar o comando select para trocar a versão ativa do PHP:
 
+```bash
     sudo port select --set php php73
-
+```
 
 [Voltar a página inicial](../README.md)
