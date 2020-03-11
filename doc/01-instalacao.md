@@ -26,7 +26,7 @@ Instando PHP no MAC - via Macports
 
 O projeto MacPorts é uma iniciativa da comunidade de código aberto para projetar um sistema fácil de usar para compilar, instalar e atualizar softwares por linha de comando.
 
-Você pode instalar o php em diferentes versões : php54, php55, php56, php70, php71, php72 ou php73 usando o comando port install, como no exemplo abaixo:
+Você pode instalar o php em diferentes versões : php5.4, php5.5, php5.6, php7.0, php7.1, php7.2 ou php7.3 usando o comando port install, como no exemplo abaixo:
 
     sudo port install php56
     sudo port install php73
