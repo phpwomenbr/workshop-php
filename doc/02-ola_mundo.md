@@ -9,11 +9,11 @@ Digite: `echo "Olá, mundo";` e pressione enter.
 
 Pronto! Assim o seu código será executado.
 
-Para sair do modo interativo do PHP, digite: ctrl + c.
+Para sair do modo interativo do PHP, digite: `ctrl + c`.
 
 ## Criando arquivos PHP
 
-Você também pode criar um arquivo de texto e executá-lo no terminal! Recomendamos o uso do [Visual Studio Code](https://code.visualstudio.com/download)  ou [VSCode](https://vscodium.com/).
+Você também pode criar um arquivo de texto e executá-lo no terminal! Recomendamos o uso do [Visual Studio Code](https://code.visualstudio.com/download) ou [Codium](https://vscodium.com/).
 
 Depois disso, abra o seu editor de texto e vamos fazer o "Olá, mundo!" nele.
 
