@@ -27,7 +27,7 @@ Em seguida, digite o seguinte código:
 
 ```php    
 <?php
-    echo 'Olá, mundo!';
+echo 'Olá, mundo!';
 ```
 
 Depois disso, salve seu arquivo com a extensão `.php`
