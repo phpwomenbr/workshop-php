@@ -13,10 +13,19 @@ No exemplo acima estamos definindo uma variável chamada $meu_nome e ela está r
 
 É necessário ser feita respeitando algumas regras:
 
-1.  Não iniciar com números.
-2.  Não utilizar espaços em branco.
-3.  Não utilizar caracteres especiais, somente underline.
-4.  Devem ser declaradas em minúsculo. Caso sejam nomes compostos, a primeira letra de todas as palavras, menos da primeira, que é recomendável que seja maiúscula (ex: `$dataAniversario`) ou separe-as pelo caractere underline (ex.: `$data_Aniversario`);
+1. Não iniciar com números.
+2. Não utilizar espaços em branco.
+3. Não utilizar caracteres especiais, somente underline.
+4. Pode ser declarada em minúsculo.
+5. Pode ser usada em CamelCase.
+
+Exemplo:
+
+```php
+$DataAniversario // uso de CamelCase
+$dataAniversario // primeira minúscula e segunda maiúscula
+$data_aniversario // uso de underline
+```
 
 > Como PHP é uma linguagem case sensitive, `$nomeum` é diferente de `$nomeUm`.
 
