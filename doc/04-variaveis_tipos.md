@@ -4,7 +4,7 @@ Em PHP temos oito tipos de dados primitivos:
 - integer (números inteiros)
 - float (número de ponto flutuante, ou também double)
 - string (texto que escrevemos entre aspas)
-- boolean (verdadeiro ou salso)
+- boolean (verdadeiro ou falso)
 
 - array
 - object
