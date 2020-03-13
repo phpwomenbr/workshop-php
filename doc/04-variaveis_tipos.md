@@ -1,6 +1,6 @@
 # Tipos de dados 
 
-Em PHP temos oito tipos de dados primitivos:
+Em PHP temos dez tipos de dados primitivos:
 - integer (números inteiros)
 - float (número de ponto flutuante, ou também double)
 - string (texto que escrevemos entre aspas)
