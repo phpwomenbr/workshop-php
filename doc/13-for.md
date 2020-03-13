@@ -9,5 +9,6 @@ No exemplo a seguir estamos imprimindo de 1 até 10 utilizando o `for`.
 for ($i = 1; $i <= 10; $i++) {
     echo $i . PHP_EOL; //PHP_EOL para quebrar linha.
 }
+```
 
 [Voltar a página inicial](../README.md)
