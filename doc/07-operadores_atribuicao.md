@@ -1,6 +1,6 @@
  # Operadores de atribuição
  
- O operador básico de atribuição é "=". A sua primeira inclinação deve ser a de pensar nisto como "é igual". Não. Isto quer dizer, na verdade, que o operando da esquerda recebe o valor da expressão da direita (ou seja, "é definido para").
+ O operador básico de atribuição é "=". A sua primeira inclinação deve ser a de pensar nisto como "é igual". Não! Isto quer dizer, na verdade, que o operando da esquerda recebe o valor da expressão da direita (ou seja, "é definido para").
 
 O valor de uma expressão de atribuição é o valor atribuído. Ou seja, o valor de "$a = 3" é 3. Isto permite que você faça alguns truques:
 
