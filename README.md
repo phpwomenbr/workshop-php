@@ -16,7 +16,7 @@ Vamos começar?
 - [Variáveis](doc/03-variaveis_definicao.md)
   - [Variáveis tipos](doc/04-variaveis_tipos.md)
   - [Tipos de dado](doc/05-tipos-de-dado.md)
-- [Operadores]()
+- [Operadores](https://github.com/DaianeAlvesRJ/workshop-php/blob/master/README.md)
   - [Operadores aritméticos](doc/06-operadores_aritmeticos.md)
     - [Exercício](doc/06.1-exercicios.md)
   - [Operadores de atribuição](doc/07-operadores_atribuicao.md)
