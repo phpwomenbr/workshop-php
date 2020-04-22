@@ -23,6 +23,7 @@ Vamos começar?
   - [Operadores de comparação](doc/08-operadores_comparacao.md)
   - [Operadores lógicos](doc/09-operadores_logicos.md)
   - [Operadores de string](doc/10-operadores_de_string.md)
+    -[Brincando com string](doc/10.1-brincando_com_strings.md)
 - [Estruturas de controle](doc/11-estruturas_de_controle.md)
   - [if, else e elseif](doc/12-if_else_elseif.md)
   - [while](doc/12-while.md)
@@ -30,3 +31,4 @@ Vamos começar?
   - [for](doc/13-for.md)
     - [Exercício](doc/13.1-exercicio_for.md)
   - [switch](doc/14-switch.md)
+ - [Array](doc/15-array.md)
