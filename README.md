@@ -32,3 +32,4 @@ Vamos começar?
     - [Exercício](doc/13.1-exercicio_for.md)
   - [switch](doc/14-switch.md)
  - [Array](doc/15-array.md)
+     - [Exercício](doc/15.1-exercicio_array.md)
