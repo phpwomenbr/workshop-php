@@ -33,3 +33,4 @@ Vamos começar?
   - [switch](doc/14-switch.md)
  - [Array](doc/15-array.md)
      - [Exercício](doc/15.1-exercicio_array.md)
+     - [Manipulacao de array](doc/15.2-array_funcoes.md)
