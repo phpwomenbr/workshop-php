@@ -34,3 +34,4 @@ Vamos começar?
  - [Array](doc/15-array.md)
      - [Exercício](doc/15.1-exercicio_array.md)
      - [Manipulacao de array](doc/15.2-array_funcoes.md)
+       - [Exercício manipulação de array](doc/15.3-exercicio_array_funcoes.md)
