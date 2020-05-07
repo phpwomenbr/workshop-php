@@ -11,24 +11,34 @@
 
 3. Verifique quantos caracteres o nome inteiro da questão anterior possui. Imprima-o todo em letras maiúsculas.
 
-
 ## If / Else / Elseif / Switch
 4. Crie um programa em PHP que receba duas notas, calcule a média e mostre para o usuário. Se a média for maior ou igual a 6, imprima "Aluno aprovado". Se a média for menor que 6, exiba "Prova final".
 
 5. Crie um programa em PHP que receba a idade de uma pessoa e informe se é maior ou menor de idade.
 
+6. Crie um programa em PHP com uma lista de estados (ex.: RJ, SP, MG). Se este estado for SP, escreva Paulista, se RJ, escreva Carioca, se MG, escreva Mineiro. Caso seja outro estado, escreva Outro Estado.
+> Dica: Utilize o comando `switch`.
+
 ## For / While
 6. Crie um programa em PHP que mostre os números de 0 a 20, de 2 em 2.
 
 ## Arrays
+7. Crie um programa em PHP que contenha um array com 10 elementos inteiros. Depois, troque todos os valores negativos do array por 0. Após as trocas, imprima o array.
+
 7. Crie um programa em PHP que mostre um array com três estados e suas capitais. Veja o exemplo:
 `"SP" => "São Paulo"`
 
 > Vamos imprimir o seguinte resultado:
 `A capital de SP é São Paulo`
 `A capital de RJ é Rio de Janeiro`
-`A capital de PE é Recife`
+`A capital de MG é Belo Horizonte`
 
-8. Crie um programa em PHP ordene um array em ordem crescente. Veja o exemplo:
+8. Crie um programa em PHP ordene um array em ordem decrescente. Veja o exemplo:
+
+|0|1|2|3|4|
+|---|:---:|:---:|:---:|---:|
+|2|4|1|5|3|
+
+9. Crie um programa em PHP que o usuário escolha uma operação (soma, subtração, multiplicação ou divisão) e receba 2 números. Realize a operação escolhida e mostre o resultado, como em uma calculadora.
 
 [Voltar a página inicial](../README.md)
