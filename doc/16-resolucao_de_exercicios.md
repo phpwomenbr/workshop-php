@@ -3,7 +3,7 @@
 ## Básicos
 1. Crie um programa em PHP que receba um valor, calcule e mostre para o usuário 5% e 50% deste valor.
 
-2. Crie um programa em PHP que receba uma temperatura em graus Farenheit e converta para graus Celsius. Considere a temperatura 
+2. Crie um programa em PHP que receba uma temperatura em graus Farenheit e converta para graus Celsius. Considere a temperatura de 86º F.
 > Fórmula: ((F – 32) * 5) / 9
 
 ## Strings
