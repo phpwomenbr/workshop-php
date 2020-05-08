@@ -32,6 +32,8 @@ Vamos começar?
     - [Exercício](doc/13.1-exercicio_for.md)
   - [switch](doc/14-switch.md)
  - [Array](doc/15-array.md)
-     - [Exercício](doc/15.1-exercicio_array.md)
-     - [Manipulacao de array](doc/15.2-array_funcoes.md)
-       - [Exercício manipulação de array](doc/15.3-exercicio_array_funcoes.md)
+   - [Exercício](doc/15.1-exercicio_array.md)
+   - [Manipulacao de array](doc/15.2-array_funcoes.md)
+     - [Exercício manipulação de array](doc/15.3-exercicio_array_funcoes.md)
+ - Exercícios
+   - [Revisão de conteúdo](doc/16-resolucao_de_exercicios.md)
