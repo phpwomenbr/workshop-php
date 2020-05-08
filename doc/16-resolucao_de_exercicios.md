@@ -37,11 +37,13 @@
 `"SP" => "São Paulo"`
 
 > Vamos imprimir o seguinte resultado:
-`A capital de SP é São Paulo`
-`A capital de RJ é Rio de Janeiro`
-`A capital de MG é Belo Horizonte`
+``` bash
+A capital de SP é São Paulo
+A capital de RJ é Rio de Janeiro
+A capital de MG é Belo Horizonte
+```
 
-13. Crie um programa em PHP ordene um array em ordem decrescente. Veja o exemplo:
+1.  Crie um programa em PHP ordene o seguinte array em ordem decrescente.
 
 |0|1|2|3|4|
 |---|:---:|:---:|:---:|---:|
