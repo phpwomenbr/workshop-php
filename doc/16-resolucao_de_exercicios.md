@@ -34,7 +34,7 @@
 11. Crie um programa em PHP que contenha um array com 10 elementos inteiros. Depois, troque todos os valores negativos do array por 0. Após as trocas, imprima o array.
 
 12. Crie um programa em PHP que mostre um array com três estados e suas capitais. Veja o exemplo:
-`"SP" => "São Paulo"`
+`'SP' => 'São Paulo'`
 
 > Vamos imprimir o seguinte resultado:
 ``` bash
@@ -43,7 +43,7 @@ A capital de RJ é Rio de Janeiro
 A capital de MG é Belo Horizonte
 ```
 
-1.  Crie um programa em PHP ordene o seguinte array em ordem decrescente.
+13.  Crie um programa em PHP que ordene o seguinte array em ordem decrescente.
 
 |0|1|2|3|4|
 |---|:---:|:---:|:---:|---:|
