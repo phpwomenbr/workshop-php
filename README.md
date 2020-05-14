@@ -37,3 +37,5 @@ Vamos começar?
      - [Exercício manipulação de array](doc/15.3-exercicio_array_funcoes.md)
  - Exercícios
    - [Revisão de conteúdo](doc/16-resolucao_de_exercicios.md)
+- [Functions](doc/17-functions.md)
+    - [Exercício](doc/17.1-exercicio.md)

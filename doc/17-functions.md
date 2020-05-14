@@ -21,7 +21,7 @@ function nomeFuncao($par1, $par2, $par3, ..., $parN){
 
 - A palavra reservada `function` define o bloco de código como uma função.
 - O `nomeFuncao` deve ser um nome de fácil entendimento para identificação da função.
-- Assim como as variáveis, as funções não podem ser iniciadas com números ou caracteres especiais, exceto o underline (_).
+- Assim como as variáveis, as funções não podem ser iniciadas com números ou caracteres especiais, exceto o underline `(_)`.
 - Trabalhando em paradigma de orientação a objetos, inicia-se o nome da função com letra minúscula por convenção.
 - Os valores entre parênteses são chamados de **parâmetros** ou **argumentos** e são valores dos quais a função depende para ser executada corretamente.
 - As funções podem ser classificadas quanto ao seu retorno como vazias (void) ou com retorno. Veremos mais detalhadamente abaixo.
@@ -32,18 +32,18 @@ As funções **void** ou **sem retorno** apenas executam uma série de comandos 
 
 ## Função sem parâmetro e sem retorno
 
-```
+```php
 function exibirMensagem() {
-    echo "Olá\n";
+    echo "Olá" . PHP_EOL;
     echo "Seja Bem Vindo(a)!"
 }
 ```
 
 ## Função com parâmetro e sem retorno:
 
-```
+```php
 function exibirMensagem($nome) {
-    echo "Olá\n";
+    echo "Olá" . PHP_EOL;
     echo $nome;
 }
 ```
@@ -54,7 +54,7 @@ function exibirMensagem($nome) {
 <?php
     //definição da função
    function exibirMensagem($nome) {
-      echo "Olá\n";
+      echo "Olá" . PHP_EOL;
       echo $nome;
    }
 
@@ -69,8 +69,8 @@ function exibirMensagem($nome) {
 <?php    
    //definição da função    
    function exibirMensagem() {
-  	echo "Olá\n";        
-  	echo "PHPWomenBR";
+      echo "Olá" . PHP_EOL;
+  	   echo "PHPWomenBR";
    }         
  
    //chamando a função    
