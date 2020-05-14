@@ -112,3 +112,6 @@ Veja o exemplo a seguir:
 ```
 
 > Dica: Poderíamos substituir a linha `$fat = $fat * $i;` por `$fat *= $i;`.
+
+
+[Voltar a página inicial](../README.md)
