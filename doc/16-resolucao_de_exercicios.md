@@ -43,7 +43,7 @@ A capital de RJ é Rio de Janeiro
 A capital de MG é Belo Horizonte
 ```
 
-13.  Crie um programa em PHP que ordene o seguinte array em ordem decrescente.
+13. Crie um programa em PHP ordene o seguinte array em ordem decrescente.
 
 |0|1|2|3|4|
 |---|:---:|:---:|:---:|---:|
