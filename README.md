@@ -38,4 +38,9 @@ Vamos começar?
  - Exercícios
    - [Revisão de conteúdo](doc/16-resolucao_de_exercicios.md)
 - [Functions](doc/17-functions.md)
-    - [Exercício](doc/17.1-exercicio.md)
+    - [Exercício](doc/17.1-exercicio.md).
+    - [Funcoes Variaveis](doc/17.2-%20funcoes_variaveis.md)
+    - [Funcoes internas](doc/17.3-funcoes_internas.md).
+    - [Funcoes anonimas](doc/17.4-funcoes_anonimas.md)
+    - [Arrow functions](doc/17.5-%20arrow_functions.md).
+    - [Exercícios](doc/17.6-exercicios.md)
