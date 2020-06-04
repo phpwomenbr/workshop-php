@@ -77,6 +77,7 @@ O PHP é uma linguagem tem uma grande quantidade de funções que, as vezes, par
 
 Por exemplo, para ler um arquivo, você poderia usar as funções `file_get_contents`ou `fopen`, `readfile`. Apesar de serem parecidas, é necessário informar algumas variações entre as elas. 
 Vamos ao primeiro exemplo:
+
 ### file_get_contents()
 A função `file_get_contents` tem como finalidade ler todo o conteúdo de um arquivo para uma string, sendo possível, por exemplo, armazenar todo valor de um arquivo de texto em uma variável.
 
