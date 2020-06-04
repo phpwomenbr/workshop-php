@@ -44,3 +44,6 @@ Vamos começar?
     - [Funcoes anonimas](doc/17.4-funcoes_anonimas.md)
     - [Arrow functions](doc/17.5-%20arrow_functions.md).
     - [Exercícios](doc/17.6-exercicios.md)
+- [Manipulação de arquivos](doc/18-manipulando_arquivos.md)
+    - [Exercícios](doc/18.1-exercicios.md)
+    - [Manipulação de arquivos CSV](doc/18.1-manipulacao_csv.md)
