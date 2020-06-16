@@ -1,4 +1,4 @@
-# Functions_exists
+# Function_exists
 
 A `function_exists` - retorna `TRUE` se a função dada está definida, do contrário, `FALSE`.
 
@@ -24,18 +24,13 @@ if (function_exists('mensagem')) {
 }
 ```
 
-Agora vamos imaginar que você tenha um arquivo separado com algumas funções e deseja verificar se a função procurada existe. Primeiro você deve fazer um include ou require para fazer a referência de onde se vai buscar aquela função. Em seguida, você pode verificar se a função a ser procurada existe!
+Agora vamos imaginar que você tenha um arquivo separado com algumas funções e deseja verificar se a função procurada existe. Primeiro você deve fazer um include ou require para fazer a referência de onde se vai buscar aquela função. Em seguida, você pode verificar se a função a ser procurada existe.
 
 Veja o exemplo:
 
 ```php
-<?php
 require 'functions.php';
-// declaração da function mensagem 
-function mensagem() 
-{ 
-    echo "Olá, mundo!"; 
-} 
+
 // verificando se a function mensagem existe 
 if (function_exists('divide')) {
     echo "mensagem() function está disponível" . PHP_EOL; 
