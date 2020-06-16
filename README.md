@@ -47,4 +47,6 @@ Vamos começar?
 - [Manipulação de arquivos](doc/18-manipulando_arquivos.md)
     - [Exercícios](doc/18.1-exercicios.md)
     - [Manipulação de arquivos CSV](doc/18.2-manipulacao_csv.md)
-
+    - [Exercícios](doc/18.3-exercicios.md)
+- [Include - Require](doc/19-include_require.md)
+- [Function_exists](doc/20-function_exists.md)
