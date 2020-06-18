@@ -1,6 +1,4 @@
 # Workshop de PHP
-Workshop inicialmente criado pela comunidade PHPWomenRJ
-
 PHP é uma das linguagens de programação mais utilizadas na internet, de acordo com o site [W3Tech](https://w3techs.com/) estima-se que aproximadamente 80% da web utiliza PHP. Com ela é possível criar diversos tipos de aplicações como: sites e sistemas diversos.
 
 Foi criada por Rasmus Lerdof na década de 90 com o objetivo criar uma maneira que permitisse que os usuários pudessem interagir com seu site, deixando mensagem através de formulários personalizados. Para permitir que esta ferramenta crescesse, Rasmus liberou seu código fonte e desde então PHP se tornou cada vez mais poderosa e vem evoluindo a cada nova versão.
@@ -48,3 +46,6 @@ Vamos começar?
     - [Exercícios](doc/18.1-exercicios.md)
     - [Manipulação de arquivos CSV](doc/18.2-manipulacao_csv.md)
     - [Exercícios](doc/18.3-exercicios.md)
+- [Include - Require](doc/19-include_require.md)
+- [Function_exists](doc/20-function_exists.md)
+    - [Exercícios](doc/21-exercicios.md)
