@@ -1,9 +1,20 @@
 # Orientação a Objetos
+Para muitos orientação a objetos é um conceito apavorante e com sintaxes complicadas. Nesta aula você aprenderá os conceitos que envolvem a programação orientada a objetos (POO) e conhecerá um mundo de possibilidades que a envolve.
+A finalidade da POO é aproximar o mundo digital do mundo real e ela tráz inúmeras vantagens.
 
-## Classes e Objetos
+Imagine uma casa...
+
+Certamente quem a construiu antes de começar fez um projeto de como seria esta casa, damos este nome de projeto de planta.
+
+A partir de uma planta pode ser construída inúmeras casas, todas elas com o mesmo molde. Porém, cada casa pode ter uma cor diferente, uma porta diferente...
+
+Em POO chamamos a planta da casa de Classe (modelo) e as casas geradas a partir deste modelo de objeto. Um novo objeto criado pode ser chamado de instância.
+
+## Classes 
 Uma classe é uma forma de definir um tipo de dado em uma linguagem orientada a objetos. Ela é formada por dados e comportamentos.
 Com a classe definida, podem ser criados diversos objetos do tipo da classe criada. Ela funciona, então, como um modelo para a criação dos seus objetos.
 
+## Objetos
 Objetos são instâncias de classes, que determinam qual informação um objeto contém e como ele pode manipulá-la. É uma entidade capaz de reter um estado (informação) e que oferece uma série de informações (comportamento) para examinar ou para afetar este estado. É através deles que praticamente todo o processamento ocorre em sistemas implementados com linguagens de programação orientadas a objetos.
 
 ######## Faremos um exemplo na aula que será incluído aqui
