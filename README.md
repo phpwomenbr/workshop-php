@@ -49,3 +49,4 @@ Vamos começar?
 - [Include - Require](doc/19-include_require.md)
 - [Function_exists](doc/20-function_exists.md)
     - [Exercícios](doc/21-exercicios.md)
+- [Orientação a objetos](doc/22-orientacao_objetos.md)
