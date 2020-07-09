@@ -6,10 +6,16 @@ Com a classe definida, podem ser criados diversos objetos do tipo da classe cria
 
 Objetos são instâncias de classes, que determinam qual informação um objeto contém e como ele pode manipulá-la. É uma entidade capaz de reter um estado (informação) e que oferece uma série de informações (comportamento) para examinar ou para afetar este estado. É através deles que praticamente todo o processamento ocorre em sistemas implementados com linguagens de programação orientadas a objetos.
 
-######## Faremos um exemplo na aula que será incluído aqui
+<kbd>
+<img src="../images/exemplo_carro_1.jpg">
+</kbd>
 
 ## Atributos e métodos
-Para definir os dados são utilizados os atributos, e para definir o comportamento são utilizados métodos. 
+Para definir os dados são utilizados os atributos, e para definir o comportamento são utilizados métodos.
+
+<kbd>
+<img src="../images/exemplo_carro_2.jpg">
+</kbd>
 
 Atributos de uma classe também são conhecidos como propriedades e descrevem um intervalo de valores que as instâncias da classe podem apresentar.
 Um atributo é uma variável que pertence a um objeto. Os dados de um objeto são armazenados nos seus atributos.
@@ -19,6 +25,10 @@ Os métodos são procedimentos ou funções que realizam as ações próprias do
 Sendo mais conhecidos como: Método Construtor, Métodos Get e Set, etc.
 
 ######## Faremos um exemplo na aula que será incluído aqui
+
+<kbd>
+<img src="../images/exemplo_casa.jpg">
+</kbd>
 
 
 ## Visibilidade
