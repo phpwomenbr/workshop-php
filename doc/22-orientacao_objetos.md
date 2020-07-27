@@ -35,7 +35,21 @@ Informações sobre o objeto. Dados que posso armazenar.
 Os métodos são procedimentos ou funções que realizam as ações próprias do objeto. Assim, os métodos são as ações que o objeto pode realizar. Tudo o que o objeto faz é através de seus métodos, pois é através dos seus métodos que um objeto se manifesta, através deles que o objeto interage com os outros objetos.
 Sendo mais conhecidos como: Método Construtor, Métodos Get e Set, etc.
 
-######## Faremos um exemplo na aula que será incluído aqui
+...
+Class Casa(){
+  // Atributos
+  public $quartos;
+  private $cor;
+  
+  // Métodos
+  public function getCor(){
+    return $this->cor;
+  }
+  public function setCor($cor){
+    $this->cor = $cor;
+  }
+}
+...
 
 <kbd>
 <img src="../images/exemplo_casa.jpg">
@@ -49,7 +63,44 @@ São distribuídas em três tipos, private (privado), public (publico) e protect
 - Público: visível para tudo uma função a ser chamada a qualquer momento
 - Protegido: esse caso restringe o parâmetro fora da classe, mas ainda acessível às suas subclasses (herança)
 
-######## Faremos um exemplo na aula que será incluído aqui
+...
+Class Casa(){
+  // Atributos
+  public $quartos; // Não é necessários criar get e set para atributos publicos, pois ele podem ser acessados diretamente.
+  private $cor;
+  
+  // Métodos
+  // Método de get do atributo privado de Cor, somente atráves do método conseguiremos visualizar e setar um valor para o atributo.
+  public function getCor(){
+    return $this->cor;
+  }
+  public function setCor($cor){
+    $this->cor = $cor;
+    // Chamando um método privado na propria classe, ou seja, ao escolher uma cor também será setado o valor padrão de 3 quartos.
+    $this->setQuarto();
+  }
+  
+  //Método privados só podem ser utilizar na propria classe.
+  private function setQuarto() {
+    $this->quarto = 3;
+  }
+}
+...
+
+
+...
+// Exemplo de como será criado e acesso o objeto
+$casa = new Casa();
+
+$casa->quartos = 3; // É possivel salvar um conteúdo de um atributo publico indo diretamento ao atributo.
+echo $casa->quartos; // É possivel visualizar um atributo publico somente realizando a chamada dele.
+
+
+$casa->cor = 'azul'; // Esse código não vai funcionar pois não é permitido acessar diretamente o atributo.
+$casa->setCor('azul'); // No caso de atributo privado é necessário chamar o método set do atributo.
+
+echo $casa->getCor(); // Mesma coisa para exibir o conteúdo de um atributo privado é necessário ter um método get desse atributo.
+...
 
 ## Encapsulamento
 
