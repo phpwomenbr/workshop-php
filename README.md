@@ -50,3 +50,13 @@ Vamos começar?
 - [Function_exists](doc/20-function_exists.md)
     - [Exercícios](doc/21-exercicios.md)
 - [Orientação a objetos](doc/22-orientacao_objetos.md)
+
+Para imprimir os todos arquivos para ajudar ainda mais nos seus estudos, siga os passos abaixo:
+
+- Baixe o repositorio para seu computador
+- Abra o site: https://dillinger.io/
+- Clique na opção Import From no canto superior direito e clique em Markdown File
+- Selecione o repositorio que deseja imprimir, ele estara no caminho (\workshop-php-master\doc)
+- Após abir no mesmo menu usado anteriormente acesse Export As > PDF
+- Agora é só repetir os passos para todas as paginas que quiser imprimir
+- Com todos os arquivos já em pdf, somente imprimir com o visualizador de pdf que mais lhe agradar!
