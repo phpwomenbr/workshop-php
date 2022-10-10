@@ -51,7 +51,7 @@ Vamos começar?
     - [Exercícios](doc/21-exercicios.md)
 - [Orientação a objetos](doc/22-orientacao_objetos.md)
 
-Para imprimir os arquivos para ajudar ainda mais nos seus estudos, siga os passos abaixo:
+**OBS**: Para imprimir os arquivos em .pdf e ajudar ainda mais nos seus estudos, siga os passos abaixo:
 
 - Baixe o repositorio para seu computador
 - Abra o site: https://dillinger.io/
